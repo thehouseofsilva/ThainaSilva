@@ -16,7 +16,10 @@ a {
 .header-msg{
     color: #000;
     background: #fff;
-}    
+}
+.header-msg h1 {
+    font-size: 61px;
+}
 .header-msg a, .header-msg a:hover, .header-msg a:active, .header-msg a:focus{
     vertical-align: middle;
     font-family: 'Poiret One', cursive;
@@ -107,7 +110,7 @@ nav{
   background-size: cover;
 }
 
-.footer-wrapper {
+#footer-wrapper {
     z-index: 2;
     clear: left;
     border-top: 1px solid #444444;
