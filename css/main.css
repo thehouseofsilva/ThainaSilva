@@ -17,7 +17,7 @@ a {
     color: #000;
     background: #fff;
 }
-.header-msg h1 {
+.header-msg a h1 {
     font-size: 61px;
 }
 .header-msg a, .header-msg a:hover, .header-msg a:active, .header-msg a:focus{
